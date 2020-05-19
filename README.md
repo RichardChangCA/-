@@ -17,4 +17,5 @@
 4. 等待可乐即将蒸发完全，关火，加入白芝麻与小葱出锅
 
 
+![avator](https://github.com/RichardChangCA/cookbook/blob/master/cookbook_images/kelejichi.jpeg)
 
