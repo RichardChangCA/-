@@ -19,3 +19,24 @@
 
 ![avator](https://github.com/RichardChangCA/cookbook/blob/master/cookbook_images/kelejichi.jpeg)
 
+
+<h3>羊肉手抓饭</h3>
+
+食材：带肥羊肉（可以刷火锅羊肉片代替），胡萝卜，洋葱，米饭，葡萄干
+
+调味品料：孜然，盐，胡椒粉，酱油，油，生姜，料酒（可有可无）
+
+步骤：
+
+1. 不喜欢羊肉的腥味可以提前用洋葱水浸泡去腥
+
+2. 讲生姜切末，胡萝卜滚刀块，洋葱小方片
+
+3. 锅中热油加入羊肉，胡萝卜，洋葱，姜末一起随便炒一炒不用熟就关火（三到五分熟），炒时加入孜然、料酒一点点、比平时炒菜多一点的盐（因为一些盐要与米饭共享）
+
+4. 将米洗净加入电饭锅，倒入半熟食材入锅中，加入半熟食材入锅中，加入少许酱油和葡萄干（喜欢玉米可以加玉米粒），加入没过所有食材即可
+
+5. 待米饭蒸熟后关电源闷一会儿，开过后将食材与米饭充分搅拌
+
+
+![avator](https://github.com/RichardChangCA/cookbook/blob/master/cookbook_images/shouzhuafan.jpeg)
